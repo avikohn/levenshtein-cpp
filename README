@@ -1,0 +1,4 @@
+This is slightly modified code to allow for compliation in g++ 
+unsigned char was converted to char* its not a clean implementation
+some of the types were changed to make it c++ friendly
+explicit casting was added to avoid void* pointer returns
